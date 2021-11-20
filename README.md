@@ -1,4 +1,3 @@
-[Presentation_LandcoverClassification.pdf](https://github.com/riccardocrescenti/landcover-classification-sda/files/7574339/Supervised.Classification.SDA.pdf)
 # Satellite Data Analysis
 Supervised classification using Google Earth Engine
 Riccardo Crescenti, A.Y. 2020/2021
@@ -10,3 +9,5 @@ perform an accuracy assessment with independent validation data.
 Tool: Google Earth Engine 
 Region of interest: Pavia
 Satellite for data acquisition: SENTINEL-2
+
+[Presentation_LandcoverClassification.pdf](https://github.com/riccardocrescenti/landcover-classification-sda/files/7574339/Supervised.Classification.SDA.pdf)
